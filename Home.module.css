@@ -1,0 +1,19 @@
+.container {
+  min-height: 100vh;
+  padding: 0 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+  background-color: black;
+}
+.main{
+  text-align: center;
+  color: white;
+  font-size: 50px;
+}
+.box{
+  font-size: 30px;
+  justify-content: center;
+}
